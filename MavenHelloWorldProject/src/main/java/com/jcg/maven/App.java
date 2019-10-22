@@ -1,7 +1,7 @@
 package com.jcg.maven;
 
 /**
- * Hello world!
+ * Hello world!!
  *
  */
 public class App 
